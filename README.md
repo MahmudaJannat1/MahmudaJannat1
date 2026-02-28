@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Spring+Boot+Developer;Flutter+Developer;Android+Developer&center=true&width=500&height=50">
 </h1>
 
-## 🏆 GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=MahmudaJannat1&theme=radical&margin-w=15)
-
  # 👋 Hi, I'm Mahmuda Jannat
 
 ## 💼 Full Stack Software Developer  
