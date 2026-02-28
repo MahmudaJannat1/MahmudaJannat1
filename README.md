@@ -1,23 +1,22 @@
 # 👋 Hi, I'm Mahmuda Jannat
 
-## 💼 Full Stack Software Developer
-IsDB-BISEW IT Scholarship Program Graduate (2025–2026)
+## 💼 Full Stack Software Developer  
+IsDB-BISEW IT Scholarship Program (2025–2026)
 
 ---
 
 ## 🚀 About Me
-- 🎓 Trained in Spring Boot, Angular & Flutter
-- 🏨 Built Full Stack Hotel Management Systems
-- 🔐 Experienced in JWT Authentication & Role-Based Access Control
-- 🗄 Strong knowledge in MySQL, Oracle 19c & JPA/Hibernate
-- 📱 Mobile App Development using Flutter
-- 🌱 Passionate about Backend Architecture & Clean Code
+- 💻 Full Stack Developer (Spring Boot + Angular + Flutter)
+- 📱 Android & Flutter Mobile App Developer
+- 🔐 Experienced in JWT & Firebase Authentication
+- 🗄 Strong Knowledge in MySQL, Oracle 19c & Hibernate
+- 🌱 Passionate about Clean Architecture & Scalable Backend Systems
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Backend**
+## Backend
 - Java
 - Spring
 - Spring Boot
@@ -25,39 +24,106 @@ IsDB-BISEW IT Scholarship Program Graduate (2025–2026)
 - REST API
 - JWT Security
 
-**Frontend**
+## Frontend & Mobile
 - Angular
 - Flutter
-- HTML, CSS, Bootstrap
+- Android (Java)
+- HTML
+- CSS
+- Bootstrap
 
-**Database**
+## Database
 - MySQL
 - Oracle 19c
+- Firebase Firestore
+- Firebase Realtime Database
 
-**Tools**
+## Tools
 - Git & GitHub
 - Postman
 - JasperReports
+- Firebase Console
 
 ---
 
-## 🏆 Featured Project
+# 📌 Featured Projects
 
-### 🏨 Hotel Management System (Spring Boot + Angular)
-A complete role-based hotel booking and management system.
+---
 
-✔ Admin, Staff & Customer Roles  
-✔ JWT Authentication & Authorization  
-✔ Room Booking & Payment Processing  
-✔ RESTful API Architecture  
-✔ MySQL Database Design  
+## 🏨 1️⃣ Hotel Management System (Spring Boot + Angular)
 
 🔗 GitHub:  
 https://github.com/MahmudaJannat1/Hotel-Management-System-Spring-Angular  
 
+✔ Role-Based Access (Admin, Staff, Customer)  
+✔ JWT Authentication & Authorization  
+✔ Room Booking & Reservation  
+✔ Payment Processing  
+✔ RESTful API Architecture  
+✔ MySQL Database Design  
+
 ---
 
-## 📫 Contact Me
+## 📱 2️⃣ Hotel Management System (Flutter + Spring Boot)
+
+🔗 GitHub:  
+https://github.com/MahmudaJannat1/Hotel-Management-System-Flutter-Spring  
+
+✔ Flutter Mobile UI  
+✔ Spring Boot Backend Integration  
+✔ Booking & Customer Management  
+✔ Payment Module  
+✔ Inventory & Housekeeping  
+
+---
+
+## 📅 3️⃣ Event Booker Management (Android)
+
+🔗 GitHub:  
+https://github.com/MahmudaJannat1/Event-Booker-Management-Android  
+
+✔ Firebase Authentication (Secure Login & Registration)  
+✔ Firebase Firestore / Realtime Database  
+✔ Event Listing & Booking System  
+✔ Booking Confirmation Module  
+✔ Clean & User-Friendly Android UI  
+
+---
+
+## 💰 4️⃣ Crowdfunding Startup Investment Tracker(Flutter + SQLite)
+
+🔗 GitHub:  
+https://github.com/MahmudaJannat1/Crowdfunding-Startup-Investment-Tracker  
+
+✔ Investment Tracking System  
+✔ Startup & Investor Management  
+✔ Financial Data Processing  
+✔ Backend API Integration  
+
+---
+
+## 🌐 5️⃣ Fiverr Experience --- WordPress Projects (2019-2023)
+
+✔ Developed & Maintained WordPress Websites  
+✔ SEO Optimization  
+✔ Branding & Logo Integration  
+✔ Client Collaboration  
+
+---
+
+# 🎓 Education
+- 🎓 B.Sc – CGPA 3.28  
+- 🎓 M.Sc – CGPA 3.44  
+- 🎓 IsDB-BISEW IT Scholarship – Full Stack Development  
+
+---
+
+# 📫 Contact Me
 📍 Dhaka, Bangladesh  
 📧 mahmudajannat890@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mahmudajannat/
+🔗 LinkedIn: https://www.linkedin.com/in/mahmudajannat/  
+🔗 GitHub: https://github.com/MahmudaJannat1  
+
+---
+
+⭐ Open to Junior Backend / Full Stack Developer Opportunities
