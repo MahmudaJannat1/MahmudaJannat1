@@ -1,11 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Spring+Boot+Developer;Flutter+Developer;Android+Developer&center=true&width=500&height=50">
 </h1>
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-username.vercel.app/api?username=MahmudaJannat1&show_icons=true&theme=transparent)
+## 🏆 GitHub Trophy
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudaJannat1&layout=compact&theme=transparent)
+![trophy](https://github-profile-trophy.vercel.app/?username=MahmudaJannat1&theme=radical&margin-w=15)
 
  # 👋 Hi, I'm Mahmuda Jannat
 
