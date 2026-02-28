@@ -23,6 +23,11 @@ IsDB-BISEW IT Scholarship Program (2025–2026)
 ---
 
 # 🛠 Tech Stack
+## 🔥 Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Backend
 - Java
