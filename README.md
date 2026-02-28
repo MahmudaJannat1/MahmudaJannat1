@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Mahmuda Jannat
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Spring+Boot+Developer;Flutter+Developer;Android+Developer&center=true&width=500&height=50">
+</h1>
+ # 👋 Hi, I'm Mahmuda Jannat
 
 ## 💼 Full Stack Software Developer  
 IsDB-BISEW IT Scholarship Program (2025–2026)
