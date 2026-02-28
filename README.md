@@ -3,9 +3,9 @@
 </h1>
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=MahmudaJannat1&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats-git-master-username.vercel.app/api?username=MahmudaJannat1&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudaJannat1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudaJannat1&layout=compact&theme=transparent)
 
  # 👋 Hi, I'm Mahmuda Jannat
 
