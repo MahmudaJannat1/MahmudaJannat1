@@ -122,8 +122,6 @@ https://github.com/MahmudaJannat1/Crowdfunding-Startup-Investment-Tracker
 📍 Dhaka, Bangladesh  
 📧 mahmudajannat890@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mahmudajannat/  
-🔗 GitHub: https://github.com/MahmudaJannat1  
-
 ---
 
 ⭐ Open to Junior Backend / Full Stack Developer Opportunities
