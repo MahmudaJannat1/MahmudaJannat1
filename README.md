@@ -4,17 +4,17 @@
 
 <h1 align="center">👋 Hi, I'm Mahmuda Jannat</h1>
 
-<h3 align="center">Full Stack Software Developer | IsDB-BISEW IT Scholarship Program (2025–2026)</h3>
+<h3 align="center">Full Stack Developer | IsDB-BISEW IT Scholarship Program (2025–2026)</h3>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate and dedicated **Full Stack Software Developer** with hands-on experience in building scalable web and mobile applications.  
+I am a passionate and dedicated **Full Stack Developer** with hands-on experience in building scalable web and mobile applications.  
 I specialize in backend development with Spring Boot and enjoy designing clean, maintainable, and secure systems.
 
 ### 💼 Technical Expertise
-- 🔹 Full Stack Development (Spring Boot, Angular, Flutter)
+- 🔹 Full Stack Development (Java, Spring Boot, Angular, Android, Flutter)
 - 🔹 RESTful API Development & Secure Authentication (JWT, Firebase Auth)
 - 🔹 Android & Cross-Platform Mobile App Development
 - 🔹 Database Management (MySQL, Oracle 19c, Hibernate, JPA)
