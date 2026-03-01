@@ -92,50 +92,62 @@ I specialize in backend development with Spring Boot and enjoy designing clean, 
 
 ---
 
-## 🏨 1️⃣ Hotel Management System (Spring Boot + Angular)
+## 🏨 1️⃣ Hotel Management System  
+### 🛠 Tech: Spring Boot | Angular | MySQL
 
-🔗 GitHub:  
+🔗 **GitHub Repository:**  
 https://github.com/MahmudaJannat1/Hotel-Management-System-Spring-Angular  
 
-✔ Role-Based Access (Admin, Staff, Customer)  
+A full-featured enterprise-level hotel management system with secure role-based access and scalable backend architecture.
+
+✔ Role-Based Access Control (Admin, Staff, Customer)  
 ✔ JWT Authentication & Authorization  
-✔ Room Booking & Reservation  
-✔ Payment Processing  
+✔ Room Booking & Reservation Management  
+✔ Payment Processing Module  
 ✔ RESTful API Architecture  
-✔ MySQL Database Design  
+✔ Optimized MySQL Database Design  
 
 ---
 
-## 📱 2️⃣ Hotel Management System (Flutter + Spring Boot)
+## 📱 2️⃣ Hotel Management System (Mobile Version)  
+### 🛠 Tech: Flutter | Spring Boot | MySQL
 
-🔗 GitHub:  
+🔗 **GitHub Repository:**  
 https://github.com/MahmudaJannat1/Hotel-Management-System-Flutter-Spring  
 
-✔ Flutter Mobile UI  
-✔ Spring Boot Backend Integration  
+A cross-platform mobile application integrated with Spring Boot backend for complete hotel operations management.
+
+✔ Modern Flutter UI  
+✔ Secure Spring Boot Backend Integration  
 ✔ Booking & Customer Management  
 ✔ Payment Module  
-✔ Inventory & Housekeeping  
+✔ Inventory & Housekeeping Management  
 
 ---
 
-## 📅 3️⃣ Event Booker Management (Android)
+## 📅 3️⃣ Event Booker Management  
+### 🛠 Tech: Android (Java) | Firebase
 
-🔗 GitHub:  
+🔗 **GitHub Repository:**  
 https://github.com/MahmudaJannat1/Event-Booker-Management-Android  
 
+An Android application designed for seamless event booking and management.
+
 ✔ Firebase Authentication (Secure Login & Registration)  
-✔ Firebase Firestore / Realtime Database  
+✔ Firebase Firestore & Realtime Database  
 ✔ Event Listing & Booking System  
 ✔ Booking Confirmation Module  
-✔ Clean & User-Friendly Android UI  
+✔ Clean & User-Friendly Mobile Interface  
 
 ---
 
-## 💰 4️⃣ Crowdfunding Startup Investment Tracker(Flutter + SQLite)
+## 💰 4️⃣ Crowdfunding Startup Investment Tracker  
+### 🛠 Tech: Flutter | SQLite | REST API
 
-🔗 GitHub:  
+🔗 **GitHub Repository:**  
 https://github.com/MahmudaJannat1/Crowdfunding-Startup-Investment-Tracker  
+
+A financial tracking application for managing startup investments and investor data.
 
 ✔ Investment Tracking System  
 ✔ Startup & Investor Management  
@@ -144,12 +156,14 @@ https://github.com/MahmudaJannat1/Crowdfunding-Startup-Investment-Tracker
 
 ---
 
-## 🌐 5️⃣ Fiverr Experience --- WordPress Projects (2019-2023)
+## 🌐 5️⃣ Freelance Experience – WordPress Projects (2019–2023)
 
-✔ Developed & Maintained WordPress Websites  
+Worked with international clients to design, develop, and maintain professional WordPress websites.
+
+✔ Custom WordPress Development  
 ✔ SEO Optimization  
 ✔ Branding & Logo Integration  
-✔ Client Collaboration  
+✔ Client Requirement Analysis & Collaboration  
 
 ---
 
