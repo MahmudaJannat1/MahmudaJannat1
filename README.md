@@ -156,7 +156,7 @@ A financial tracking application for managing startup investments and investor d
 
 ---
 
-## 🌐 5️⃣ Freelance Experience – WordPress Projects (2019–2023)
+## 🌐 5️⃣ Freelance Experience in FIVERR – WordPress Projects (2019–2023)
 
 Worked with international clients to design, develop, and maintain professional WordPress websites.
 
